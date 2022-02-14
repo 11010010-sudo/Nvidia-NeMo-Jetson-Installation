@@ -1,1 +1,2 @@
 # Nvidia-NeMo-Jetson-Installation
+sample qweqweqweqweqweqweqweqweqweqweqweqweqw
