@@ -35,7 +35,7 @@ NVIDIA NeMo is a conversational AI toolkit built for researchers working on auto
     sudo apt-get install python3-pip
 ```
 
-### Start to Build Pip Packages That are Not Present in The NeMo-toolkit
+### Start Building Pip Packages That are Not Present in The NeMo-toolkit
 ```python
     pip install testresources
     pip install setuptools
